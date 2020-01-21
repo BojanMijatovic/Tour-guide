@@ -28,14 +28,14 @@ html {
   font-size: 62.5%;
   font-family: 'Barlow', sans-serif; }
 
-.slider .slides li {
-  margin: 0 auto; }
+.slider .slides li .caption {
+  margin-top: 5rem; }
   .slider .slides li .caption h2 {
     font-weight: 700;
     letter-spacing: 1px; }
-  .slider .slides li .btn {
-    border-radius: 0.5rem;
-    border: none;
-    font-size: 1.4rem; }
+.slider .slides li .btn {
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 1.4rem; }
 
 /*# sourceMappingURL=mainStyle.css.map */

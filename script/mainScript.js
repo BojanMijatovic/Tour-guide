@@ -6,7 +6,7 @@ $(document).ready(function () {
   //  slider
   $('.slider').slider({
     indicators: false,
-    height: 500,
+    height: 350,
     transition: 500,
     interval: 5000
   })
