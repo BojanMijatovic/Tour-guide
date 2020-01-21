@@ -8,10 +8,54 @@
       href="https://fonts.googleapis.com/css?family=Barlow:400,700,900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./script/materialize.min.js" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="./style/materialize.min.css"
+      media="screen,projection"
+    />
+    <link rel="stylesheet" href="./style/mainStyle.css" />
     <title>Tour Guide</title>
   </head>
   <body>
+    <!-- Head section -->
+    <div class="navbar-fixed">
+      <nav class="teal lighten-1">
+        <div class="container">
+          <div class="nav-wrapper">
+            <a href="#home" class="brand-logo">
+              Tour Guide
+            </a>
+            <!-- btn menu -->
+            <a href="#" class="button-collapse" data-activates="mobile-nav">
+              <i class="material-icons">
+                menu
+              </i>
+            </a>
+            <ul class="hide-on-med-and-down right">
+              <li><a href="#home">Home</a></li>
+              <li><a href="#search">Search</a></li>
+              <li><a href="#place">Popular Place</a></li>
+              <li><a href="#gallery">Gallery</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <!--  Side nav  -->
+    <ul class="side-nav" id="mobile-nav">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#search">Search</a></li>
+      <li><a href="#place">Popular Place</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
     <!--  Scripts -->
     <script
       type="text/javascript"
