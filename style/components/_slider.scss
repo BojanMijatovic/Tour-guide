@@ -1,0 +1,22 @@
+@import './general';
+
+// Section Slider
+
+.slider {
+  .slides {
+    li {
+      margin: 0 auto;
+      .caption {
+        h2 {
+          font-weight: 700;
+          letter-spacing: 1px;
+        }
+      }
+      .btn {
+        border-radius: 0.5rem;
+        border: none;
+        font-size: 1.4rem;
+      }
+    }
+  }
+}
