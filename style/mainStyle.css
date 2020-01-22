@@ -60,4 +60,33 @@ html {
       color: teal;
       font-size: 1.4rem; }
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%;
+  font-family: 'Barlow', sans-serif; }
+
+#popular h3 {
+  margin-bottom: 2rem; }
+#popular .card {
+  border-radius: 1rem;
+  cursor: pointer; }
+  #popular .card span {
+    text-transform: uppercase; }
+  #popular .card .card-content p {
+    font-size: 1.4rem;
+    color: teal; }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%;
+  font-family: 'Barlow', sans-serif; }
+
 /*# sourceMappingURL=mainStyle.css.map */

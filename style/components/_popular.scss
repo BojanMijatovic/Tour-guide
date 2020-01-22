@@ -1,0 +1,19 @@
+@import './general';
+
+#popular {
+  h3 {
+    margin-bottom: 2rem;
+  }
+  .card {
+    border-radius: 1rem;
+    cursor: pointer;
+
+    span {
+      text-transform: uppercase;
+    }
+    .card-content p {
+      font-size: 1.4rem;
+      color: teal;
+    }
+  }
+}
