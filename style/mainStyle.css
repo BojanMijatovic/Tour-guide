@@ -89,4 +89,7 @@ html {
   font-size: 62.5%;
   font-family: 'Barlow', sans-serif; }
 
+#gallery .row img {
+  padding: 1rem; }
+
 /*# sourceMappingURL=mainStyle.css.map */
