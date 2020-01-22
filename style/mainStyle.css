@@ -34,8 +34,30 @@ html {
     font-weight: 700;
     letter-spacing: 1px; }
 .slider .slides li .btn {
+  margin-top: 1.5rem;
   border-radius: 0.5rem;
   border: none;
   font-size: 1.4rem; }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%;
+  font-family: 'Barlow', sans-serif; }
+
+#box .row {
+  margin-top: 2rem; }
+  #box .row .card-panel {
+    border-radius: 1rem;
+    cursor: pointer; }
+    #box .row .card-panel h4 {
+      color: teal;
+      font-size: 2.4rem; }
+    #box .row .card-panel p {
+      color: teal;
+      font-size: 1.4rem; }
 
 /*# sourceMappingURL=mainStyle.css.map */

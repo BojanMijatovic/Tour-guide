@@ -1,0 +1,24 @@
+@import './general';
+
+//  Section box
+
+#box {
+  .row {
+    margin-top: 2rem;
+
+    .card-panel {
+      border-radius: 1rem;
+      cursor: pointer;
+
+      h4 {
+        color: teal;
+        font-size: 2.4rem;
+      }
+
+      p {
+        color: teal;
+        font-size: 1.4rem;
+      }
+    }
+  }
+}
