@@ -1,0 +1,18 @@
+@import './general';
+
+//Contact Section
+
+#contact {
+  .collection-item {
+    font-size: 1.6rem;
+    cursor: pointer;
+  }
+
+  .input-field input {
+    font-size: 1.4rem;
+  }
+
+  textarea {
+    font-size: 1.4rem;
+  }
+}

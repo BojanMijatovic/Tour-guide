@@ -92,4 +92,21 @@ html {
 #gallery .row img {
   padding: 1rem; }
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%;
+  font-family: 'Barlow', sans-serif; }
+
+#contact .collection-item {
+  font-size: 1.6rem;
+  cursor: pointer; }
+#contact .input-field input {
+  font-size: 1.4rem; }
+#contact textarea {
+  font-size: 1.4rem; }
+
 /*# sourceMappingURL=mainStyle.css.map */
