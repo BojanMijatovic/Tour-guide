@@ -10,4 +10,8 @@ $(document).ready(function () {
     transition: 500,
     interval: 5000
   })
+
+  // scrollspy
+  $('.scrollspy').scrollSpy();
+
 });
