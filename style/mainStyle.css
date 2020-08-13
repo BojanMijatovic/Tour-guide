@@ -1,112 +1,158 @@
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 ul li a {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 .slider .slides li .caption {
-  margin-top: 5rem; }
-  .slider .slides li .caption h2 {
-    font-weight: 700;
-    letter-spacing: 1px; }
+  margin-top: 5rem;
+}
+
+.slider .slides li .caption h2 {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
 .slider .slides li .btn {
   margin-top: 1.5rem;
   border-radius: 0.5rem;
   border: none;
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 #box .row {
-  margin-top: 2rem; }
-  #box .row .card-panel {
-    border-radius: 1rem;
-    cursor: pointer; }
-    #box .row .card-panel h4 {
-      color: teal;
-      font-size: 2.4rem; }
-    #box .row .card-panel p {
-      color: teal;
-      font-size: 1.4rem; }
+  margin-top: 2rem;
+}
+
+#box .row .card-panel {
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+#box .row .card-panel h4 {
+  color: teal;
+  font-size: 2.4rem;
+}
+
+#box .row .card-panel p {
+  color: teal;
+  font-size: 1.4rem;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 #popular h3 {
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+}
+
 #popular .card {
   border-radius: 1rem;
-  cursor: pointer; }
-  #popular .card span {
-    text-transform: uppercase; }
-  #popular .card .card-content p {
-    font-size: 1.4rem;
-    color: teal; }
+  cursor: pointer;
+}
+
+#popular .card span {
+  text-transform: uppercase;
+}
+
+#popular .card .card-content p {
+  font-size: 1.4rem;
+  color: teal;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 #gallery .row img {
-  padding: 1rem; }
+  padding: 1rem;
+}
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 html {
   font-size: 62.5%;
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'Barlow', sans-serif;
+}
 
 #contact .collection-item {
   font-size: 1.6rem;
-  cursor: pointer; }
-#contact .input-field input {
-  font-size: 1.4rem; }
-#contact textarea {
-  font-size: 1.4rem; }
+  cursor: pointer;
+}
 
+#contact .input-field input {
+  font-size: 1.4rem;
+}
+
+#contact textarea {
+  font-size: 1.4rem;
+}
 /*# sourceMappingURL=mainStyle.css.map */
